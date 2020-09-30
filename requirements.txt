@@ -1,0 +1,6 @@
+beautifulsoup4==4.9.1
+discord-webhook==0.8.0
+firebase-admin==4.3.0
+python-dateutil==2.8.1
+requests==2.24.0
+lxml==4.5.2
